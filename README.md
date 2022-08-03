@@ -23,7 +23,7 @@ Given I need a new, secure password, when I click the button to generate a passw
 ## Mock Up
 The website is depicted in the image below.
 
-<!-- <img src="./assets/images/insertimage"></img> -->
+<img src="./03-javascript-homework-demo.png"></img>
 
 ## Development Environment:
 I used Visual Studio Code, Terminal, and Git.
