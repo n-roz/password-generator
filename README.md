@@ -4,7 +4,7 @@ HTML, CSS, and JavaScript: Password Generator
 
 In this project, I created an application that will generate a random password based on criteria the user selects.
 
-View my project on Github: https://necro17.github.io/Code-Refactor/
+View my project on Github: https://necro17.github.io/password-generator/
 
 ## Challenges
 
